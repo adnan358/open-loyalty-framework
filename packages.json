@@ -1,0 +1,16 @@
+{
+  "name": "open-loyalty",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/DivanteLtd/open-loyalty.svg?branch=master)](https://travis-ci.org/DivanteLtd/open-loyalty)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adnan358/open-loyalty-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/adnan358/open-loyalty-framework#readme"
+}
